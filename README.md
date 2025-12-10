@@ -4,6 +4,7 @@ Ayuda Puma es un prototipo de plataforma web diseñado para gestionar solicitude
 
 El prototipo busca representar cómo los usuarios interactuarían con la plataforma, facilitando la visualización de la experiencia de usuario antes de implementar el desarrollo funcional.
 
+
 Tipos de usuario
 
 El prototipo incluye dos tipos de usuario, con acceso simulado para representar distintos roles dentro de la plataforma:
@@ -20,23 +21,26 @@ Usuario: admin@ayudapuma.hn
 
 Permite ingresar al prototipo y visualizar la plataforma desde la perspectiva de un administrador, gestionando casos y recursos de apoyo.
 
+
 Funcionalidades incluidas en el prototipo
 
-Registro y login de usuarios (simulado en Figma)
+- Registro y login de usuarios.
 
-Panel de navegación para estudiantes y administradores
+- Panel de navegación para estudiantes y administradores.
 
-Visualización de solicitudes de apoyo
+- Visualización de solicitudes de apoyo.
 
-Diseño de flujo de interacción completo
+- Diseño de flujo de interacción completo.
 
-Mockups de pantallas clave con botones y componentes interactivos
+- Mockups de pantallas clave con botones y componentes interactivos.
+
 
 Tecnologías utilizadas
 
 Figma: para diseño de interfaz, prototipado y flujo de usuario
 
 Elementos interactivos simulados dentro de Figma
+
 
 Observaciones
 

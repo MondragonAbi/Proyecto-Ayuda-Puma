@@ -1,4 +1,4 @@
-Ayuda Puma – Prototipo Figma
+Proyecto: AYUDA PUMA 
 
 Ayuda Puma es un prototipo de plataforma web diseñado para gestionar solicitudes de apoyo estudiantil. Este proyecto fue desarrollado totalmente en Figma, incluyendo la estructura de navegación, el flujo de usuarios y la interfaz visual.
 
@@ -12,7 +12,7 @@ Estudiante
 
 Usuario: nombre.apellido@unah.edu.hn
 
-Permite ingresar al prototipo y navegar por la interfaz como estudiante, simulando el registro y seguimiento de solicitudes de apoyo.
+Permite ingresar al prototipo y navegar por la interfaz como estudiante, simulando el registro y busqueda de herramientas escolares y chat interno con otros estudiantes.
 
 Administrador
 

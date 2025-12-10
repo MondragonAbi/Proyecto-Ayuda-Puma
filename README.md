@@ -11,15 +11,13 @@ Tipos de usuario
 El prototipo incluye dos tipos de usuario, con acceso simulado para representar distintos roles dentro de la plataforma:
 
 Estudiante
-
 Usuario: nombre.apellido@unah.edu.hn
-
+Contraseña: 1234
 Permite ingresar al prototipo y navegar por la interfaz como estudiante, simulando el registro y busqueda de herramientas escolares y chat interno con otros estudiantes.
 
 Administrador
-
 Usuario: admin@ayudapuma.hn
-
+Contraseña: 1234
 Permite ingresar al prototipo y visualizar la plataforma desde la perspectiva de un administrador, gestionando casos y recursos de apoyo.
 
 

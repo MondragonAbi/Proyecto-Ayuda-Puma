@@ -4,6 +4,7 @@ Ayuda Puma es un prototipo de plataforma web diseñado para gestionar solicitude
 
 El prototipo busca representar cómo los usuarios interactuarían con la plataforma, facilitando la visualización de la experiencia de usuario antes de implementar el desarrollo funcional.
 
+ENLACE DEL PROTOTIPO: https://swim-waffle-03716619.figma.site/
 
 Tipos de usuario
 
